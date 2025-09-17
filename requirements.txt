@@ -1,0 +1,13 @@
+streamlit
+sentence-transformers
+faiss-cpu
+pypdf
+python-docx
+markdown
+numpy
+ollama
+openai
+cryptography
+python-dotenv
+requests
+
