@@ -23,3 +23,5 @@
    ```bash
    git clone https://github.com/USERNAME/RAG-LITE.git
    cd RAG-LITE
+
+![คำอธิบายรูป](neura.jpg)
